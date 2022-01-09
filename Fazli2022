@@ -4,7 +4,7 @@
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News", Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Without category", Astro Awani (720p) [Not 24/7]
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
